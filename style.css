@@ -1,0 +1,48 @@
+*,
+html {
+    margin: 0;
+    padding: 0;
+}
+.body {
+    background-color: black;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.header {
+    background-color: rgb(187, 186, 186);
+    text-align: center;
+    color: black;
+    padding: 20px;
+}
+
+.content-container {
+    background-color: rgb(187, 186, 186);
+    border-radius: 10px;
+    padding: 20px;
+    max-width: 20%;
+    margin: 10px auto;
+    text-align: center;
+}
+
+.ul-content {
+    height: 50%;
+    display: block;
+}
+
+.li-content {
+    padding: 5px;
+    list-style-type: none;
+}
+
+.li-content:hover {
+    background-color: gray;
+    transition: .5s ease-in-out;
+    transition-delay: .0.5s;
+    border-radius: 8px;
+}
+
+.a-content{
+    text-decoration: none;
+    color: black;
+}
