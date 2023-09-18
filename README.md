@@ -1,3 +1,3 @@
-# Odin Project Practice Website
-Hey, this is the result of my project on Odin Project Course!
+# (Odin Project) HTML Project: Recipes
+Hey, this is the result of my Recipe project on Odin Project Course!
 Hope you like it.
